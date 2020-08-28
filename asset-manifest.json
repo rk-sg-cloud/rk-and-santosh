@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rk-and-santosh/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rk-and-santosh/static/js/main.3c2a6895.chunk.js",
+    "main.js.map": "/rk-and-santosh/static/js/main.3c2a6895.chunk.js.map",
+    "runtime-main.js": "/rk-and-santosh/static/js/runtime-main.06daedc9.js",
+    "runtime-main.js.map": "/rk-and-santosh/static/js/runtime-main.06daedc9.js.map",
+    "static/js/2.7ed6b3b3.chunk.js": "/rk-and-santosh/static/js/2.7ed6b3b3.chunk.js",
+    "static/js/2.7ed6b3b3.chunk.js.map": "/rk-and-santosh/static/js/2.7ed6b3b3.chunk.js.map",
+    "index.html": "/rk-and-santosh/index.html",
+    "precache-manifest.8c5e0bf2eac555ef6590b34c9b95a0e0.js": "/rk-and-santosh/precache-manifest.8c5e0bf2eac555ef6590b34c9b95a0e0.js",
+    "service-worker.js": "/rk-and-santosh/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rk-and-santosh/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7ed6b3b3.chunk.js.LICENSE.txt": "/rk-and-santosh/static/js/2.7ed6b3b3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rk-and-santosh/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06daedc9.js",
+    "static/js/2.7ed6b3b3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3c2a6895.chunk.js"
+  ]
+}
